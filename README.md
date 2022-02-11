@@ -25,21 +25,7 @@ ToDos:
 - Implement a method to withdraw the rewards automatically when certain conditions are met (it is triggered manually in the current version).
 ---
 
-## Theory
 
-### What is yield farming?
-
-At its core, yield farming is a process that allows cryptocurrency holders to lock up their holdings, which in turn provides them with rewards.
-
-**In brief:**
-
-- Yield farming lets you lock up funds, providing rewards in the process.
-- It involves lending out cryptos via DeFi protocols in order to earn fixed or variable interest.
-- The rewards can be far greater than traditional investments, but higher rewards bring higher risks, especially in such a volatile market.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/118402446-91963780-b672-11eb-9574-12e19fb789f9.png" | width=720>
-</p>
 
 ## Application Software Architecture
 
@@ -104,7 +90,7 @@ If you use this code for your publications, please cite it as:
 This project was built on top of **Dapp University** implementation, [here](https://github.com/dappuniversity/defi_tutorial) you can find more details.
 
 ## Author
-Ahmet Özlü
+Woo Bin
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
